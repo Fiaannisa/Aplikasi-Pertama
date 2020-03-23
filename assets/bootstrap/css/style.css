@@ -1,0 +1,53 @@
+
+
+
+body {
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+.col-md-9{
+  background:#C8F7C5;
+}
+
+.col-md-9{ font-weight:bold; }
+    #boldTextNumeric { font-weight:700; 
+    }
+
+.card-body{ font-weight:bold; }
+    #boldTextNumeric { font-weight:700; 
+}
+.card-body1{
+  background:#c6f2c2;
+}
+
+.card-body2{
+  background:#aff5a9;
+}
+
+.card-body3{
+  background:#c6f2c2;
+}
+
+.col-md-12{
+  color:red;
+  
+}
+
+.col-md-6{
+  color:red;
+  
+}
+
